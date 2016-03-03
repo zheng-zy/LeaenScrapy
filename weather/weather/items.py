@@ -8,12 +8,7 @@
 import scrapy
 
 
-class NovelspiderItem(scrapy.Item):
+class WeatherItem(scrapy.Item):
     # define the fields for your item here like:
-    bookName = scrapy.Field()
-    bookTitle = scrapy.Field()
-    chapterNum = scrapy.Field()
-    chapterName = scrapy.Field()
-    chapterURL = scrapy.Field()
-    text = scrapy.Field()
+    # name = scrapy.Field()
     pass

@@ -7,6 +7,10 @@ http://pan.baidu.com/s/1sjZ9lxV
 Scrapy安装
 http://pan.baidu.com/s/1mhhQTxm
 
+
+demo:https://github.com/gnemoug/distribute_crawler
+
+
 环境：Windows7 python2.7.10（64位）
 安装：easy_install scrapy
 
